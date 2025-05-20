@@ -18,3 +18,4 @@ To complete the task of designing an e-learning platform UI using HTML and CSS, 
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/cbd1459b-ab71-4dc4-81fc-21136b2d761e)
